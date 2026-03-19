@@ -1,0 +1,47 @@
+[
+  {
+    "content": "探险类分支选项模板：1.继续往前走，看看前面有什么。2.先停下来观察周围的环境。3.回去找朋友一起来探险。这类选项鼓励孩子思考风险和合作。",
+    "age_group": "all",
+    "theme": "探险",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "社交类分支选项模板：1.主动走过去和新朋友打招呼。2.先在旁边观察一下再决定。3.邀请新朋友一起玩自己喜欢的游戏。这类选项帮助孩子练习社交技能。",
+    "age_group": "all",
+    "theme": "社交",
+    "scene_type": "",
+    "education_goal": "合作",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "问题解决类分支选项模板：1.用已有的工具尝试解决。2.请教身边的大朋友。3.换一种方法再试试。这类选项培养孩子的问题解决能力和求助意识。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "情感类分支选项模板：1.给朋友一个温暖的拥抱。2.陪朋友坐一会儿，安静地在身边。3.讲一个有趣的故事让朋友开心起来。这类选项培养孩子的共情能力。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "善良",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "道德类分支选项模板：1.把捡到的东西交给老师。2.先问问周围的人是不是丢了东西。3.把东西放到显眼的地方等主人来找。这类选项引导孩子思考正确的道德选择。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "诚实",
+    "style": "",
+    "safety_level": "safe"
+  }
+]

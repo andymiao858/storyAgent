@@ -1,0 +1,47 @@
+[
+  {
+    "content": "儿童故事中严禁出现以下内容：暴力行为描写、血腥场景、死亡的详细描述、恐怖元素、鬼怪惊悚、武器使用的详细描述。应该用温和、积极的方式处理冲突。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "critical"
+  },
+  {
+    "content": "儿童故事中不得包含：歧视性语言、不当的性别刻板印象、种族偏见、对身体外貌的嘲笑、霸凌行为的美化。所有角色应该受到平等和尊重的对待。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "critical"
+  },
+  {
+    "content": "3-5岁故事表达规则：使用简单短句，每句不超过15个字。避免使用抽象概念。多用拟声词和重复句式。角色名字要简单好记。情节要直观易懂。",
+    "age_group": "3-5",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "6-9岁故事表达规则：可以使用稍复杂的句式，但每段不宜过长。可以引入简单的因果关系和逻辑推理。可以有适度的悬念，但不宜过于紧张。鼓励思考和探索。",
+    "age_group": "6-9",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "safe"
+  },
+  {
+    "content": "温和表达替换规则：'打架'替换为'产生了争执'，'害怕得哭了'替换为'有点担心'，'被抛弃'替换为'暂时走散了'，'死亡'替换为'去了很远的地方'，'惩罚'替换为'需要反思一下'。",
+    "age_group": "all",
+    "theme": "",
+    "scene_type": "",
+    "education_goal": "",
+    "style": "",
+    "safety_level": "critical"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "content": "勇敢小兔：一只白色的小兔子，大大的眼睛充满好奇，总是第一个冲在前面探险，但遇到困难也会害怕，需要朋友的鼓励才能继续前进。性格特点：好奇、勇敢、有时胆小但能克服恐惧。",
+    "age_group": "3-6",
+    "theme": "探险",
+    "scene_type": "森林",
+    "education_goal": "勇敢",
+    "style": "可爱",
+    "safety_level": "safe"
+  },
+  {
+    "content": "星星小狐：一只会发光的金色小狐狸，住在星星小镇。它很聪明但有点孤傲，后来在朋友的帮助下学会了分享和关心他人。性格特点：聪明、独立，最终学会合作。",
+    "age_group": "5-8",
+    "theme": "魔法",
+    "scene_type": "小镇",
+    "education_goal": "分享",
+    "style": "奇幻",
+    "safety_level": "safe"
+  },
+  {
+    "content": "太空探险家小明：一个戴着圆头盔的小男孩，最大的梦想是探索宇宙。他勇敢、善良，对一切未知充满好奇。每次遇到困难都会用科学知识解决问题。",
+    "age_group": "6-9",
+    "theme": "太空",
+    "scene_type": "太空",
+    "education_goal": "勇敢",
+    "style": "科幻",
+    "safety_level": "safe"
+  },
+  {
+    "content": "海底小美人鱼：一条拥有彩虹尾巴的小美人鱼，性格温柔善良，最喜欢唱歌和帮助别人。她的歌声能让大海变得平静，让所有鱼儿感到幸福。",
+    "age_group": "3-6",
+    "theme": "海洋",
+    "scene_type": "海洋",
+    "education_goal": "善良",
+    "style": "梦幻",
+    "safety_level": "safe"
+  },
+  {
+    "content": "魔法猫咪咪：一只会说话的紫色猫咪，拥有让东西变大变小的魔法。它调皮但心地善良，总是用魔法帮助需要帮助的小动物，也会因为贪玩惹出小麻烦。",
+    "age_group": "4-7",
+    "theme": "魔法",
+    "scene_type": "森林",
+    "education_goal": "责任",
+    "style": "搞笑",
+    "safety_level": "safe"
+  }
+]
